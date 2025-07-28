@@ -1,3 +1,4 @@
 venv
 /web-dashboard/node_modules
 /web-dashboard/package-lock.json
+/python-backend/__pycache__

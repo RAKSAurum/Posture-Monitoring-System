@@ -1,0 +1,13 @@
+{
+  "name": "web-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dashboard.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.5.0",
+    "socket.io-client": "^4.8.1"
+  }
+}

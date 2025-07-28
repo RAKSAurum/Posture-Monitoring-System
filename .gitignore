@@ -1,3 +1,3 @@
 venv
 /web-dashboard/node_modules
-web-dashboard/package-lock.json
+/web-dashboard/package-lock.json

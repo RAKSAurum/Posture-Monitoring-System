@@ -4,7 +4,7 @@
   "description": "",
   "main": "dashboard.js",
   "keywords": [],
-  "author": "",
+  "author": "RAKSAurum",
   "license": "ISC",
   "dependencies": {
     "chart.js": "^4.5.0",

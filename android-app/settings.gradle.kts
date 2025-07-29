@@ -19,6 +19,4 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PostureMonitoring"
-include(":app")
- 
+rootProject.name = "Posture Monitoring System"

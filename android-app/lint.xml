@@ -1,0 +1,6 @@
+<lint>
+    <!-- Suppress the CameraX ExperimentalGetImage opt-in error -->
+    <issue id="UnsafeOptInUsageError">
+        <option name="opt-in" value="androidx.camera.core.ExperimentalGetImage" />
+    </issue>
+</lint>

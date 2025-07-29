@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
         cameraExecutor = Executors.newSingleThreadExecutor()
         
         // Initialize API service with your backend IP
-        apiService = ApiService("ws://192.168.0.7:8000/stream")
+        apiService = ApiService("ws://192.168.1.7:8000/stream")
         
         // Initialize pose analyzer with callback
         poseAnalyzer = PoseAnalyzer { landmarks ->

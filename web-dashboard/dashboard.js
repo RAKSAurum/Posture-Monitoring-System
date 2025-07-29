@@ -21,7 +21,7 @@ let lastPosture = null;
 let postureStartTime = Date.now(); // Time when the current posture started
 
 // Set up WebSocket connection to backend server
-const socket = new WebSocket('ws://192.168.0.7:8000/dashboard');
+const socket = new WebSocket('ws://192.168.1.7:8000/dashboard');
 
 socket.onopen = function(event) {
     console.log('Connected to backend server');

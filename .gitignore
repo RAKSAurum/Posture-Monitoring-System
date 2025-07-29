@@ -3,3 +3,4 @@ venv
 /web-dashboard/package-lock.json
 /python-backend/__pycache__
 .vscode
+Cache.txt

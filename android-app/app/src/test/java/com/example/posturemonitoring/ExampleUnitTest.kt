@@ -1,4 +1,4 @@
-package com.example.posturemonitoring
+package com.example.posturemonitoringsystem
 
 import org.junit.Test
 
